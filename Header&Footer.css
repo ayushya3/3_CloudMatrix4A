@@ -1,0 +1,30 @@
+body{
+    color: black;
+    background-color: plum;
+}
+
+.header1{
+    border: solid;
+    margin: auto;
+    padding: 2%;
+    text-align: center;
+  
+} 
+    
+.button{
+   
+    border-radius: 1%;
+    font-size: 100px;
+    display: inline;
+    background-color: beige;
+    position: relative;
+    width: auto;
+    flex-wrap: nowrap;
+    margin:auto;
+} 
+
+
+#butn1{
+    padding: 4%;
+    text-align: left;
+}
